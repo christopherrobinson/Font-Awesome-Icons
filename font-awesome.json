@@ -1,5 +1,5 @@
 {
-  "icons": [
+  "data": [
     {
       "type": "icon",
       "links": {
@@ -88,6 +88,52 @@
           ]
         },
         "id": "accusoft"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/acorn"
+      },
+      "id": "acorn",
+      "attributes": {
+        "unicode": "f6ae",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "acorn"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/acquisitions-incorporated"
+      },
+      "id": "acquisitions-incorporated",
+      "attributes": {
+        "unicode": "f6af",
+        "styles": [
+          "brands"
+        ],
+        "membership": {
+          "pro": [
+            "brands"
+          ],
+          "free": [
+            "brands"
+          ]
+        },
+        "id": "acquisitions-incorporated"
       }
     },
     {
@@ -332,6 +378,30 @@
           ]
         },
         "id": "algolia"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/alicorn"
+      },
+      "id": "alicorn",
+      "attributes": {
+        "unicode": "f6b0",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "alicorn"
       }
     },
     {
@@ -1115,6 +1185,30 @@
           ]
         },
         "id": "apple-alt"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/apple-crate"
+      },
+      "id": "apple-crate",
+      "attributes": {
+        "unicode": "f6b1",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "apple-crate"
       }
     },
     {
@@ -2670,6 +2764,54 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/axe"
+      },
+      "id": "axe",
+      "attributes": {
+        "unicode": "f6b2",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "axe"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/axe-battle"
+      },
+      "id": "axe-battle",
+      "attributes": {
+        "unicode": "f6b3",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "axe-battle"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/backpack"
       },
       "id": "backpack",
@@ -2837,6 +2979,30 @@
           "free": []
         },
         "id": "badge-percent"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/badger-honey"
+      },
+      "id": "badger-honey",
+      "attributes": {
+        "unicode": "f6b4",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "badger-honey"
       }
     },
     {
@@ -3209,6 +3375,30 @@
           "free": []
         },
         "id": "basketball-hoop"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/bat"
+      },
+      "id": "bat",
+      "attributes": {
+        "unicode": "f6b5",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "bat"
       }
     },
     {
@@ -3928,6 +4118,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/blender-phone"
+      },
+      "id": "blender-phone",
+      "attributes": {
+        "unicode": "f6b6",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "blender-phone"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/blind"
       },
       "id": "blind",
@@ -4246,6 +4462,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/book-dead"
+      },
+      "id": "book-dead",
+      "attributes": {
+        "unicode": "f6b7",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "book-dead"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/book-heart"
       },
       "id": "book-heart",
@@ -4322,6 +4564,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/book-spells"
+      },
+      "id": "book-spells",
+      "attributes": {
+        "unicode": "f6b8",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "book-spells"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/bookmark"
       },
       "id": "bookmark",
@@ -4368,6 +4634,30 @@
           "free": []
         },
         "id": "books"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/bow-arrow"
+      },
+      "id": "bow-arrow",
+      "attributes": {
+        "unicode": "f6b9",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "bow-arrow"
       }
     },
     {
@@ -5630,6 +5920,104 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/campfire"
+      },
+      "id": "campfire",
+      "attributes": {
+        "unicode": "f6ba",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "campfire"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/campground"
+      },
+      "id": "campground",
+      "attributes": {
+        "unicode": "f6bb",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "campground"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/candle-holder"
+      },
+      "id": "candle-holder",
+      "attributes": {
+        "unicode": "f6bc",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "candle-holder"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/candy-corn"
+      },
+      "id": "candy-corn",
+      "attributes": {
+        "unicode": "f6bd",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "candy-corn"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/cannabis"
       },
       "id": "cannabis",
@@ -6292,6 +6680,56 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/cat"
+      },
+      "id": "cat",
+      "attributes": {
+        "unicode": "f6be",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "cat"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/cauldron"
+      },
+      "id": "cauldron",
+      "attributes": {
+        "unicode": "f6bf",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "cauldron"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/cc-amazon-pay"
       },
       "id": "cc-amazon-pay",
@@ -6555,6 +6993,56 @@
           ]
         },
         "id": "certificate"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/chair"
+      },
+      "id": "chair",
+      "attributes": {
+        "unicode": "f6c0",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "chair"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/chair-office"
+      },
+      "id": "chair-office",
+      "attributes": {
+        "unicode": "f6c1",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "chair-office"
       }
     },
     {
@@ -7850,6 +8338,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/claw-marks"
+      },
+      "id": "claw-marks",
+      "attributes": {
+        "unicode": "f6c2",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "claw-marks"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/clipboard"
       },
       "id": "clipboard",
@@ -8105,6 +8617,58 @@
           ]
         },
         "id": "cloud-download-alt"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/cloud-moon"
+      },
+      "id": "cloud-moon",
+      "attributes": {
+        "unicode": "f6c3",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "cloud-moon"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/cloud-sun"
+      },
+      "id": "cloud-sun",
+      "attributes": {
+        "unicode": "f6c4",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "cloud-sun"
       }
     },
     {
@@ -8441,6 +9005,54 @@
           ]
         },
         "id": "coffee"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/coffee-togo"
+      },
+      "id": "coffee-togo",
+      "attributes": {
+        "unicode": "f6c5",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "coffee-togo"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/coffin"
+      },
+      "id": "coffin",
+      "attributes": {
+        "unicode": "f6c6",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "coffin"
       }
     },
     {
@@ -9639,6 +10251,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/corn"
+      },
+      "id": "corn",
+      "attributes": {
+        "unicode": "f6c7",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "corn"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/couch"
       },
       "id": "couch",
@@ -9660,6 +10296,30 @@
           ]
         },
         "id": "couch"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/cow"
+      },
+      "id": "cow",
+      "attributes": {
+        "unicode": "f6c8",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "cow"
       }
     },
     {
@@ -9985,7 +10645,9 @@
           "pro": [
             "brands"
           ],
-          "free": []
+          "free": [
+            "brands"
+          ]
         },
         "id": "creative-commons-zero"
       }
@@ -10087,6 +10749,28 @@
           "free": []
         },
         "id": "cricket"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/critical-role"
+      },
+      "id": "critical-role",
+      "attributes": {
+        "unicode": "f6c9",
+        "styles": [
+          "brands"
+        ],
+        "membership": {
+          "pro": [
+            "brands"
+          ],
+          "free": [
+            "brands"
+          ]
+        },
+        "id": "critical-role"
       }
     },
     {
@@ -10438,6 +11122,50 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/d-and-d-beyond"
+      },
+      "id": "d-and-d-beyond",
+      "attributes": {
+        "unicode": "f6ca",
+        "styles": [
+          "brands"
+        ],
+        "membership": {
+          "pro": [
+            "brands"
+          ],
+          "free": []
+        },
+        "id": "d-and-d-beyond"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dagger"
+      },
+      "id": "dagger",
+      "attributes": {
+        "unicode": "f6cb",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "dagger"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/dashcube"
       },
       "id": "dashcube",
@@ -10628,6 +11356,28 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/dev"
+      },
+      "id": "dev",
+      "attributes": {
+        "unicode": "f6cc",
+        "styles": [
+          "brands"
+        ],
+        "membership": {
+          "pro": [
+            "brands"
+          ],
+          "free": [
+            "brands"
+          ]
+        },
+        "id": "dev"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/deviantart"
       },
       "id": "deviantart",
@@ -10747,6 +11497,154 @@
           ]
         },
         "id": "dice"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dice-d10"
+      },
+      "id": "dice-d10",
+      "attributes": {
+        "unicode": "f6cd",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "dice-d10"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dice-d12"
+      },
+      "id": "dice-d12",
+      "attributes": {
+        "unicode": "f6ce",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "dice-d12"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dice-d20"
+      },
+      "id": "dice-d20",
+      "attributes": {
+        "unicode": "f6cf",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "dice-d20"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dice-d4"
+      },
+      "id": "dice-d4",
+      "attributes": {
+        "unicode": "f6d0",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "dice-d4"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dice-d6"
+      },
+      "id": "dice-d6",
+      "attributes": {
+        "unicode": "f6d1",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "dice-d6"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dice-d8"
+      },
+      "id": "dice-d8",
+      "attributes": {
+        "unicode": "f6d2",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "dice-d8"
       }
     },
     {
@@ -11219,6 +12117,56 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/dog"
+      },
+      "id": "dog",
+      "attributes": {
+        "unicode": "f6d3",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "dog"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dog-leashed"
+      },
+      "id": "dog-leashed",
+      "attributes": {
+        "unicode": "f6d4",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "dog-leashed"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/dollar-sign"
       },
       "id": "dollar-sign",
@@ -11574,6 +12522,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/dragon"
+      },
+      "id": "dragon",
+      "attributes": {
+        "unicode": "f6d5",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "dragon"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/draw-circle"
       },
       "id": "draw-circle",
@@ -11766,6 +12740,56 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/drumstick"
+      },
+      "id": "drumstick",
+      "attributes": {
+        "unicode": "f6d6",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "drumstick"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/drumstick-bite"
+      },
+      "id": "drumstick-bite",
+      "attributes": {
+        "unicode": "f6d7",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "drumstick-bite"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/drupal"
       },
       "id": "drupal",
@@ -11783,6 +12807,30 @@
           ]
         },
         "id": "drupal"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/duck"
+      },
+      "id": "duck",
+      "attributes": {
+        "unicode": "f6d8",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "duck"
       }
     },
     {
@@ -11809,6 +12857,32 @@
           ]
         },
         "id": "dumbbell"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/dungeon"
+      },
+      "id": "dungeon",
+      "attributes": {
+        "unicode": "f6d9",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "dungeon"
       }
     },
     {
@@ -11996,6 +13070,30 @@
           ]
         },
         "id": "elementor"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/elephant"
+      },
+      "id": "elephant",
+      "attributes": {
+        "unicode": "f6da",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "elephant"
       }
     },
     {
@@ -12962,6 +14060,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/eye-evil"
+      },
+      "id": "eye-evil",
+      "attributes": {
+        "unicode": "f6db",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "eye-evil"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/eye-slash"
       },
       "id": "eye-slash",
@@ -13072,6 +14194,28 @@
           ]
         },
         "id": "facebook-square"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/fantasy-flight-games"
+      },
+      "id": "fantasy-flight-games",
+      "attributes": {
+        "unicode": "f6dc",
+        "styles": [
+          "brands"
+        ],
+        "membership": {
+          "pro": [
+            "brands"
+          ],
+          "free": [
+            "brands"
+          ]
+        },
+        "id": "fantasy-flight-games"
       }
     },
     {
@@ -13535,6 +14679,32 @@
           ]
         },
         "id": "file-contract"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/file-csv"
+      },
+      "id": "file-csv",
+      "attributes": {
+        "unicode": "f6dd",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "file-csv"
       }
     },
     {
@@ -14476,6 +15646,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/fist-raised"
+      },
+      "id": "fist-raised",
+      "attributes": {
+        "unicode": "f6de",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "fist-raised"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/flag"
       },
       "id": "flag",
@@ -14529,6 +15725,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/flame"
+      },
+      "id": "flame",
+      "attributes": {
+        "unicode": "f6df",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "flame"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/flask"
       },
       "id": "flask",
@@ -14550,6 +15770,54 @@
           ]
         },
         "id": "flask"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/flask-poison"
+      },
+      "id": "flask-poison",
+      "attributes": {
+        "unicode": "f6e0",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "flask-poison"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/flask-potion"
+      },
+      "id": "flask-potion",
+      "attributes": {
+        "unicode": "f6e1",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "flask-potion"
       }
     },
     {
@@ -15663,6 +16931,32 @@
           ]
         },
         "id": "gg-circle"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/ghost"
+      },
+      "id": "ghost",
+      "attributes": {
+        "unicode": "f6e2",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "ghost"
       }
     },
     {
@@ -17246,6 +18540,56 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/hammer"
+      },
+      "id": "hammer",
+      "attributes": {
+        "unicode": "f6e3",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "hammer"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/hammer-war"
+      },
+      "id": "hammer-war",
+      "attributes": {
+        "unicode": "f6e4",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "hammer-war"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/hamsa"
       },
       "id": "hamsa",
@@ -17367,6 +18711,30 @@
           ]
         },
         "id": "hand-holding-heart"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/hand-holding-magic"
+      },
+      "id": "hand-holding-magic",
+      "attributes": {
+        "unicode": "f6e5",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "hand-holding-magic"
       }
     },
     {
@@ -17918,6 +19286,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/hanukiah"
+      },
+      "id": "hanukiah",
+      "attributes": {
+        "unicode": "f6e6",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "hanukiah"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/hashtag"
       },
       "id": "hashtag",
@@ -17939,6 +19333,56 @@
           ]
         },
         "id": "hashtag"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/hat-witch"
+      },
+      "id": "hat-witch",
+      "attributes": {
+        "unicode": "f6e7",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "hat-witch"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/hat-wizard"
+      },
+      "id": "hat-wizard",
+      "attributes": {
+        "unicode": "f6e8",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "hat-wizard"
       }
     },
     {
@@ -17992,6 +19436,54 @@
           ]
         },
         "id": "hdd"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/head-side"
+      },
+      "id": "head-side",
+      "attributes": {
+        "unicode": "f6e9",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "head-side"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/head-vr"
+      },
+      "id": "head-vr",
+      "attributes": {
+        "unicode": "f6ea",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "head-vr"
       }
     },
     {
@@ -18252,6 +19744,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/helmet-battle"
+      },
+      "id": "helmet-battle",
+      "attributes": {
+        "unicode": "f6eb",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "helmet-battle"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/hexagon"
       },
       "id": "hexagon",
@@ -18297,6 +19813,58 @@
           ]
         },
         "id": "highlighter"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/hiking"
+      },
+      "id": "hiking",
+      "attributes": {
+        "unicode": "f6ec",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "hiking"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/hippo"
+      },
+      "id": "hippo",
+      "attributes": {
+        "unicode": "f6ed",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "hippo"
       }
     },
     {
@@ -18367,6 +19935,30 @@
           ]
         },
         "id": "history"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/hockey-mask"
+      },
+      "id": "hockey-mask",
+      "attributes": {
+        "unicode": "f6ee",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "hockey-mask"
       }
     },
     {
@@ -18472,6 +20064,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/hood-cloak"
+      },
+      "id": "hood-cloak",
+      "attributes": {
+        "unicode": "f6ef",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "hood-cloak"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/hooli"
       },
       "id": "hooli",
@@ -18511,6 +20127,32 @@
           ]
         },
         "id": "hornbill"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/horse"
+      },
+      "id": "horse",
+      "attributes": {
+        "unicode": "f6f0",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "horse"
       }
     },
     {
@@ -18774,6 +20416,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/house-damage"
+      },
+      "id": "house-damage",
+      "attributes": {
+        "unicode": "f6f1",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "house-damage"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/houzz"
       },
       "id": "houzz",
@@ -18791,6 +20459,32 @@
           ]
         },
         "id": "houzz"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/hryvnia"
+      },
+      "id": "hryvnia",
+      "attributes": {
+        "unicode": "f6f2",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "hryvnia"
       }
     },
     {
@@ -19858,6 +21552,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/key-skeleton"
+      },
+      "id": "key-skeleton",
+      "attributes": {
+        "unicode": "f6f3",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "key-skeleton"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/keybase"
       },
       "id": "keybase",
@@ -20128,6 +21846,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/kite"
+      },
+      "id": "kite",
+      "attributes": {
+        "unicode": "f6f4",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "kite"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/kiwi-bird"
       },
       "id": "kiwi-bird",
@@ -20149,6 +21891,30 @@
           ]
         },
         "id": "kiwi-bird"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/knife-kitchen"
+      },
+      "id": "knife-kitchen",
+      "attributes": {
+        "unicode": "f6f5",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "knife-kitchen"
       }
     },
     {
@@ -20621,6 +22387,54 @@
           "free": []
         },
         "id": "leaf-heart"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/leaf-maple"
+      },
+      "id": "leaf-maple",
+      "attributes": {
+        "unicode": "f6f6",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "leaf-maple"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/leaf-oak"
+      },
+      "id": "leaf-oak",
+      "attributes": {
+        "unicode": "f6f7",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "leaf-oak"
       }
     },
     {
@@ -21834,6 +23648,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/mace"
+      },
+      "id": "mace",
+      "attributes": {
+        "unicode": "f6f8",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "mace"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/magento"
       },
       "id": "magento",
@@ -21999,6 +23837,30 @@
           ]
         },
         "id": "mandalorian"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/mandolin"
+      },
+      "id": "mandolin",
+      "attributes": {
+        "unicode": "f6f9",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "mandolin"
       }
     },
     {
@@ -22600,6 +24462,32 @@
           ]
         },
         "id": "mars-stroke-v"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/mask"
+      },
+      "id": "mask",
+      "attributes": {
+        "unicode": "f6fa",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "mask"
       }
     },
     {
@@ -23736,6 +25624,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/monkey"
+      },
+      "id": "monkey",
+      "attributes": {
+        "unicode": "f6fb",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "monkey"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/monument"
       },
       "id": "monument",
@@ -23867,6 +25779,56 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/mountain"
+      },
+      "id": "mountain",
+      "attributes": {
+        "unicode": "f6fc",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "mountain"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/mountains"
+      },
+      "id": "mountains",
+      "attributes": {
+        "unicode": "f6fd",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "mountains"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/mouse-pointer"
       },
       "id": "mouse-pointer",
@@ -23941,6 +25903,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/narwhal"
+      },
+      "id": "narwhal",
+      "attributes": {
+        "unicode": "f6fe",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "narwhal"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/neos"
       },
       "id": "neos",
@@ -23958,6 +25944,32 @@
           ]
         },
         "id": "neos"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/network-wired"
+      },
+      "id": "network-wired",
+      "attributes": {
+        "unicode": "f6ff",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "network-wired"
       }
     },
     {
@@ -24571,6 +26583,32 @@
           ]
         },
         "id": "osi"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/otter"
+      },
+      "id": "otter",
+      "attributes": {
+        "unicode": "f700",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "otter"
       }
     },
     {
@@ -25202,6 +27240,54 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/paw-alt"
+      },
+      "id": "paw-alt",
+      "attributes": {
+        "unicode": "f701",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "paw-alt"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/paw-claws"
+      },
+      "id": "paw-claws",
+      "attributes": {
+        "unicode": "f702",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "paw-claws"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/paypal"
       },
       "id": "paypal",
@@ -25245,6 +27331,30 @@
           ]
         },
         "id": "peace"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/pegasus"
+      },
+      "id": "pegasus",
+      "attributes": {
+        "unicode": "f703",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "pegasus"
       }
     },
     {
@@ -25499,6 +27609,28 @@
           "free": []
         },
         "id": "pennant"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/penny-arcade"
+      },
+      "id": "penny-arcade",
+      "attributes": {
+        "unicode": "f704",
+        "styles": [
+          "brands"
+        ],
+        "membership": {
+          "pro": [
+            "brands"
+          ],
+          "free": [
+            "brands"
+          ]
+        },
+        "id": "penny-arcade"
       }
     },
     {
@@ -25940,6 +28072,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/pie"
+      },
+      "id": "pie",
+      "attributes": {
+        "unicode": "f705",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "pie"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/pied-piper"
       },
       "id": "pied-piper",
@@ -26023,6 +28179,30 @@
           ]
         },
         "id": "pied-piper-pp"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/pig"
+      },
+      "id": "pig",
+      "attributes": {
+        "unicode": "f706",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "pig"
       }
     },
     {
@@ -27012,6 +29192,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/pumpkin"
+      },
+      "id": "pumpkin",
+      "attributes": {
+        "unicode": "f707",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "pumpkin"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/pushed"
       },
       "id": "pushed",
@@ -27377,6 +29581,54 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/rabbit"
+      },
+      "id": "rabbit",
+      "attributes": {
+        "unicode": "f708",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "rabbit"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/rabbit-fast"
+      },
+      "id": "rabbit-fast",
+      "attributes": {
+        "unicode": "f709",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "rabbit-fast"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/racquet"
       },
       "id": "racquet",
@@ -27396,6 +29648,30 @@
           "free": []
         },
         "id": "racquet"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/ram"
+      },
+      "id": "ram",
+      "attributes": {
+        "unicode": "f70a",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "ram"
       }
     },
     {
@@ -28186,6 +30462,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/ring"
+      },
+      "id": "ring",
+      "attributes": {
+        "unicode": "f70b",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "ring"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/road"
       },
       "id": "road",
@@ -28588,6 +30890,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/running"
+      },
+      "id": "running",
+      "attributes": {
+        "unicode": "f70c",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "running"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/rupee-sign"
       },
       "id": "rupee-sign",
@@ -28859,6 +31187,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/scarecrow"
+      },
+      "id": "scarecrow",
+      "attributes": {
+        "unicode": "f70d",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "scarecrow"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/schlix"
       },
       "id": "schlix",
@@ -28955,6 +31307,56 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/scroll"
+      },
+      "id": "scroll",
+      "attributes": {
+        "unicode": "f70e",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "scroll"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/scroll-old"
+      },
+      "id": "scroll-old",
+      "attributes": {
+        "unicode": "f70f",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "scroll-old"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/scrubber"
       },
       "id": "scrubber",
@@ -28974,6 +31376,30 @@
           "free": []
         },
         "id": "scrubber"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/scythe"
+      },
+      "id": "scythe",
+      "attributes": {
+        "unicode": "f710",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "scythe"
       }
     },
     {
@@ -29404,6 +31830,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/sheep"
+      },
+      "id": "sheep",
+      "attributes": {
+        "unicode": "f711",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "sheep"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/shekel-sign"
       },
       "id": "shekel-sign",
@@ -29499,6 +31949,30 @@
           "free": []
         },
         "id": "shield-check"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/shield-cross"
+      },
+      "id": "shield-cross",
+      "attributes": {
+        "unicode": "f712",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "shield-cross"
       }
     },
     {
@@ -29723,6 +32197,30 @@
           ]
         },
         "id": "shopware"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/shovel"
+      },
+      "id": "shovel",
+      "attributes": {
+        "unicode": "f713",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "shovel"
       }
     },
     {
@@ -30438,6 +32936,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/skull-crossbones"
+      },
+      "id": "skull-crossbones",
+      "attributes": {
+        "unicode": "f714",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "skull-crossbones"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/skyatlas"
       },
       "id": "skyatlas",
@@ -30521,6 +33045,32 @@
           ]
         },
         "id": "slack-hash"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/slash"
+      },
+      "id": "slash",
+      "attributes": {
+        "unicode": "f715",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "slash"
       }
     },
     {
@@ -30798,6 +33348,30 @@
           ]
         },
         "id": "smoking-ban"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/snake"
+      },
+      "id": "snake",
+      "attributes": {
+        "unicode": "f716",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "snake"
       }
     },
     {
@@ -31302,6 +33876,80 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/spider"
+      },
+      "id": "spider",
+      "attributes": {
+        "unicode": "f717",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "spider"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/spider-black-widow"
+      },
+      "id": "spider-black-widow",
+      "attributes": {
+        "unicode": "f718",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "spider-black-widow"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/spider-web"
+      },
+      "id": "spider-web",
+      "attributes": {
+        "unicode": "f719",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "spider-web"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/spinner"
       },
       "id": "spinner",
@@ -31551,6 +34199,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/squirrel"
+      },
+      "id": "squirrel",
+      "attributes": {
+        "unicode": "f71a",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "squirrel"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/stack-exchange"
       },
       "id": "stack-exchange",
@@ -31590,6 +34262,30 @@
           ]
         },
         "id": "stack-overflow"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/staff"
+      },
+      "id": "staff",
+      "attributes": {
+        "unicode": "f71b",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "staff"
       }
     },
     {
@@ -32734,6 +35430,54 @@
           ]
         },
         "id": "swimming-pool"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/sword"
+      },
+      "id": "sword",
+      "attributes": {
+        "unicode": "f71c",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "sword"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/swords"
+      },
+      "id": "swords",
+      "attributes": {
+        "unicode": "f71d",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "swords"
       }
     },
     {
@@ -34587,6 +37331,104 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/toilet-paper"
+      },
+      "id": "toilet-paper",
+      "attributes": {
+        "unicode": "f71e",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "toilet-paper"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/toilet-paper-alt"
+      },
+      "id": "toilet-paper-alt",
+      "attributes": {
+        "unicode": "f71f",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "toilet-paper-alt"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/tombstone"
+      },
+      "id": "tombstone",
+      "attributes": {
+        "unicode": "f720",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "tombstone"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/tombstone-alt"
+      },
+      "id": "tombstone-alt",
+      "attributes": {
+        "unicode": "f721",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "tombstone-alt"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/toolbox"
       },
       "id": "toolbox",
@@ -34710,6 +37552,32 @@
           ]
         },
         "id": "torii-gate"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/tractor"
+      },
+      "id": "tractor",
+      "attributes": {
+        "unicode": "f722",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "tractor"
       }
     },
     {
@@ -35016,6 +37884,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/treasure-chest"
+      },
+      "id": "treasure-chest",
+      "attributes": {
+        "unicode": "f723",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "treasure-chest"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/tree"
       },
       "id": "tree",
@@ -35061,6 +37953,30 @@
           "free": []
         },
         "id": "tree-alt"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/trees"
+      },
+      "id": "trees",
+      "attributes": {
+        "unicode": "f724",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "trees"
       }
     },
     {
@@ -35482,6 +38398,54 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/turkey"
+      },
+      "id": "turkey",
+      "attributes": {
+        "unicode": "f725",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "turkey"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/turtle"
+      },
+      "id": "turtle",
+      "attributes": {
+        "unicode": "f726",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "turtle"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/tv"
       },
       "id": "tv",
@@ -35789,6 +38753,30 @@
           ]
         },
         "id": "undo-alt"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/unicorn"
+      },
+      "id": "unicorn",
+      "attributes": {
+        "unicode": "f727",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "unicorn"
       }
     },
     {
@@ -36419,6 +39407,32 @@
           ]
         },
         "id": "user-graduate"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/user-injured"
+      },
+      "id": "user-injured",
+      "attributes": {
+        "unicode": "f728",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "user-injured"
       }
     },
     {
@@ -37572,7 +40586,9 @@
             "regular",
             "light"
           ],
-          "free": []
+          "free": [
+            "solid"
+          ]
         },
         "id": "volume-mute"
       }
@@ -37656,6 +40672,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/vr-cardboard"
+      },
+      "id": "vr-cardboard",
+      "attributes": {
+        "unicode": "f729",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "vr-cardboard"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/vuejs"
       },
       "id": "vuejs",
@@ -37725,6 +40765,54 @@
           ]
         },
         "id": "wallet"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/wand"
+      },
+      "id": "wand",
+      "attributes": {
+        "unicode": "f72a",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "wand"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/wand-magic"
+      },
+      "id": "wand-magic",
+      "attributes": {
+        "unicode": "f72b",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "wand-magic"
       }
     },
     {
@@ -37946,6 +41034,30 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/whale"
+      },
+      "id": "whale",
+      "attributes": {
+        "unicode": "f72c",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "whale"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/whatsapp"
       },
       "id": "whatsapp",
@@ -37985,6 +41097,30 @@
           ]
         },
         "id": "whatsapp-square"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/wheat"
+      },
+      "id": "wheat",
+      "attributes": {
+        "unicode": "f72d",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": []
+        },
+        "id": "wheat"
       }
     },
     {
@@ -38182,6 +41318,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/wind"
+      },
+      "id": "wind",
+      "attributes": {
+        "unicode": "f72e",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "wind"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/window"
       },
       "id": "window",
@@ -38360,6 +41522,32 @@
     {
       "type": "icon",
       "links": {
+        "self": "/api/icons/wine-bottle"
+      },
+      "id": "wine-bottle",
+      "attributes": {
+        "unicode": "f72f",
+        "styles": [
+          "solid",
+          "regular",
+          "light"
+        ],
+        "membership": {
+          "pro": [
+            "solid",
+            "regular",
+            "light"
+          ],
+          "free": [
+            "solid"
+          ]
+        },
+        "id": "wine-bottle"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
         "self": "/api/icons/wine-glass"
       },
       "id": "wine-glass",
@@ -38429,6 +41617,28 @@
           ]
         },
         "id": "wix"
+      }
+    },
+    {
+      "type": "icon",
+      "links": {
+        "self": "/api/icons/wizards-of-the-coast"
+      },
+      "id": "wizards-of-the-coast",
+      "attributes": {
+        "unicode": "f730",
+        "styles": [
+          "brands"
+        ],
+        "membership": {
+          "pro": [
+            "brands"
+          ],
+          "free": [
+            "brands"
+          ]
+        },
+        "id": "wizards-of-the-coast"
       }
     },
     {

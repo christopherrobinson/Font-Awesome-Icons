@@ -1,8 +1,8 @@
 /*
- * Built from Font Awesome Version 5.3.1 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.4.1 by Christopher Robinson (@edg3)
  */
-
-.fa-500px:before {
+ 
+ .fa-500px:before {
     content: "\f26e";
 }
 
@@ -12,6 +12,10 @@
 
 .fa-accusoft:before {
     content: "\f369";
+}
+
+.fa-acquisitions-incorporated:before {
+    content: "\f6af";
 }
 
 .fa-adn:before {
@@ -306,6 +310,10 @@
     content: "\f4f3";
 }
 
+.fa-critical-role:before {
+    content: "\f6c9";
+}
+
 .fa-css3:before {
     content: "\f13c";
 }
@@ -322,6 +330,10 @@
     content: "\f38d";
 }
 
+.fa-d-and-d-beyond:before {
+    content: "\f6ca";
+}
+
 .fa-dashcube:before {
     content: "\f210";
 }
@@ -336,6 +348,10 @@
 
 .fa-deskpro:before {
     content: "\f38f";
+}
+
+.fa-dev:before {
+    content: "\f6cc";
 }
 
 .fa-deviantart:before {
@@ -452,6 +468,10 @@
 
 .fa-facebook-square:before {
     content: "\f082";
+}
+
+.fa-fantasy-flight-games:before {
+    content: "\f6dc";
 }
 
 .fa-firefox:before {
@@ -982,6 +1002,10 @@
     content: "\f1ed";
 }
 
+.fa-penny-arcade:before {
+    content: "\f704";
+}
+
 .fa-periscope:before {
     content: "\f3da";
 }
@@ -1456,6 +1480,10 @@
 
 .fa-wix:before {
     content: "\f5cf";
+}
+
+.fa-wizards-of-the-coast:before {
+    content: "\f730";
 }
 
 .fa-wolf-pack-battalion:before {

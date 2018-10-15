@@ -1,8 +1,8 @@
 /*
- * Built from Font Awesome Version 5.3.1 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.4.1 by Christopher Robinson (@edg3)
  */
-
-.fa-ad:before {
+ 
+ .fa-ad:before {
     content: "\f641";
 }
 
@@ -294,6 +294,10 @@
     content: "\f517";
 }
 
+.fa-blender-phone:before {
+    content: "\f6b6";
+}
+
 .fa-blind:before {
     content: "\f29d";
 }
@@ -320,6 +324,10 @@
 
 .fa-book:before {
     content: "\f02d";
+}
+
+.fa-book-dead:before {
+    content: "\f6b7";
 }
 
 .fa-book-open:before {
@@ -446,6 +454,10 @@
     content: "\f083";
 }
 
+.fa-campground:before {
+    content: "\f6bb";
+}
+
 .fa-cannabis:before {
     content: "\f55f";
 }
@@ -514,8 +526,16 @@
     content: "\f217";
 }
 
+.fa-cat:before {
+    content: "\f6be";
+}
+
 .fa-certificate:before {
     content: "\f0a3";
+}
+
+.fa-chair:before {
+    content: "\f6c0";
 }
 
 .fa-chalkboard:before {
@@ -676,6 +696,14 @@
 
 .fa-cloud-download-alt:before {
     content: "\f381";
+}
+
+.fa-cloud-moon:before {
+    content: "\f6c3";
+}
+
+.fa-cloud-sun:before {
+    content: "\f6c4";
 }
 
 .fa-cloud-upload-alt:before {
@@ -842,6 +870,14 @@
     content: "\f522";
 }
 
+.fa-dice-d20:before {
+    content: "\f6cf";
+}
+
+.fa-dice-d6:before {
+    content: "\f6d1";
+}
+
 .fa-dice-five:before {
     content: "\f523";
 }
@@ -886,6 +922,10 @@
     content: "\f471";
 }
 
+.fa-dog:before {
+    content: "\f6d3";
+}
+
 .fa-dollar-sign:before {
     content: "\f155";
 }
@@ -926,6 +966,10 @@
     content: "\f568";
 }
 
+.fa-dragon:before {
+    content: "\f6d5";
+}
+
 .fa-draw-polygon:before {
     content: "\f5ee";
 }
@@ -938,8 +982,16 @@
     content: "\f56a";
 }
 
+.fa-drumstick-bite:before {
+    content: "\f6d7";
+}
+
 .fa-dumbbell:before {
     content: "\f44b";
+}
+
+.fa-dungeon:before {
+    content: "\f6d9";
 }
 
 .fa-edit:before {
@@ -1082,6 +1134,10 @@
     content: "\f56c";
 }
 
+.fa-file-csv:before {
+    content: "\f6dd";
+}
+
 .fa-file-download:before {
     content: "\f56d";
 }
@@ -1182,6 +1238,10 @@
     content: "\f578";
 }
 
+.fa-fist-raised:before {
+    content: "\f6de";
+}
+
 .fa-flag:before {
     content: "\f024";
 }
@@ -1268,6 +1328,10 @@
 
 .fa-genderless:before {
     content: "\f22d";
+}
+
+.fa-ghost:before {
+    content: "\f6e2";
 }
 
 .fa-gift:before {
@@ -1390,6 +1454,10 @@
     content: "\f0fd";
 }
 
+.fa-hammer:before {
+    content: "\f6e3";
+}
+
 .fa-hamsa:before {
     content: "\f665";
 }
@@ -1462,8 +1530,16 @@
     content: "\f2b5";
 }
 
+.fa-hanukiah:before {
+    content: "\f6e6";
+}
+
 .fa-hashtag:before {
     content: "\f292";
+}
+
+.fa-hat-wizard:before {
+    content: "\f6e8";
 }
 
 .fa-haykal:before {
@@ -1506,6 +1582,14 @@
     content: "\f591";
 }
 
+.fa-hiking:before {
+    content: "\f6ec";
+}
+
+.fa-hippo:before {
+    content: "\f6ed";
+}
+
 .fa-history:before {
     content: "\f1da";
 }
@@ -1516,6 +1600,10 @@
 
 .fa-home:before {
     content: "\f015";
+}
+
+.fa-horse:before {
+    content: "\f6f0";
 }
 
 .fa-hospital:before {
@@ -1552,6 +1640,14 @@
 
 .fa-hourglass-start:before {
     content: "\f251";
+}
+
+.fa-house-damage:before {
+    content: "\f6f1";
+}
+
+.fa-hryvnia:before {
+    content: "\f6f2";
 }
 
 .fa-i-cursor:before {
@@ -1846,6 +1942,10 @@
     content: "\f22a";
 }
 
+.fa-mask:before {
+    content: "\f6fa";
+}
+
 .fa-medal:before {
     content: "\f5a2";
 }
@@ -1966,12 +2066,20 @@
     content: "\f21c";
 }
 
+.fa-mountain:before {
+    content: "\f6fc";
+}
+
 .fa-mouse-pointer:before {
     content: "\f245";
 }
 
 .fa-music:before {
     content: "\f001";
+}
+
+.fa-network-wired:before {
+    content: "\f6ff";
 }
 
 .fa-neuter:before {
@@ -2004,6 +2112,10 @@
 
 .fa-om:before {
     content: "\f679";
+}
+
+.fa-otter:before {
+    content: "\f700";
 }
 
 .fa-outdent:before {
@@ -2314,6 +2426,10 @@
     content: "\f4d6";
 }
 
+.fa-ring:before {
+    content: "\f70b";
+}
+
 .fa-road:before {
     content: "\f018";
 }
@@ -2358,6 +2474,10 @@
     content: "\f548";
 }
 
+.fa-running:before {
+    content: "\f70c";
+}
+
 .fa-rupee-sign:before {
     content: "\f156";
 }
@@ -2380,6 +2500,10 @@
 
 .fa-screwdriver:before {
     content: "\f54a";
+}
+
+.fa-scroll:before {
+    content: "\f70e";
 }
 
 .fa-search:before {
@@ -2502,6 +2626,14 @@
     content: "\f54c";
 }
 
+.fa-skull-crossbones:before {
+    content: "\f714";
+}
+
+.fa-slash:before {
+    content: "\f715";
+}
+
 .fa-sliders-h:before {
     content: "\f1de";
 }
@@ -2580,6 +2712,10 @@
 
 .fa-space-shuttle:before {
     content: "\f197";
+}
+
+.fa-spider:before {
+    content: "\f717";
 }
 
 .fa-spinner:before {
@@ -2890,6 +3026,10 @@
     content: "\f205";
 }
 
+.fa-toilet-paper:before {
+    content: "\f71e";
+}
+
 .fa-toolbox:before {
     content: "\f552";
 }
@@ -2904,6 +3044,10 @@
 
 .fa-torii-gate:before {
     content: "\f6a1";
+}
+
+.fa-tractor:before {
+    content: "\f722";
 }
 
 .fa-trademark:before {
@@ -3062,6 +3206,10 @@
     content: "\f501";
 }
 
+.fa-user-injured:before {
+    content: "\f728";
+}
+
 .fa-user-lock:before {
     content: "\f502";
 }
@@ -3166,6 +3314,10 @@
     content: "\f027";
 }
 
+.fa-volume-mute:before {
+    content: "\f6a9";
+}
+
 .fa-volume-off:before {
     content: "\f026";
 }
@@ -3202,6 +3354,10 @@
     content: "\f1eb";
 }
 
+.fa-wind:before {
+    content: "\f72e";
+}
+
 .fa-window-close:before {
     content: "\f410";
 }
@@ -3216,6 +3372,10 @@
 
 .fa-window-restore:before {
     content: "\f2d2";
+}
+
+.fa-wine-bottle:before {
+    content: "\f72f";
 }
 
 .fa-wine-glass:before {
