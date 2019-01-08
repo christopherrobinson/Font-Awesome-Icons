@@ -1,5 +1,5 @@
 /*
- * Built from Font Awesome Version 5.4.1 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.6.3 by Christopher Robinson (@edg3)
  */
  
  .fa-500px:before {
@@ -20,6 +20,10 @@
 
 .fa-adn:before {
     content: "\f170";
+}
+
+.fa-adobe:before {
+    content: "\f778";
 }
 
 .fa-adversal:before {
@@ -86,8 +90,16 @@
     content: "\f415";
 }
 
+.fa-artstation:before {
+    content: "\f77a";
+}
+
 .fa-asymmetrik:before {
     content: "\f372";
+}
+
+.fa-atlassian:before {
+    content: "\f77b";
 }
 
 .fa-audible:before {
@@ -174,6 +186,10 @@
     content: "\f20d";
 }
 
+.fa-canadian-maple-leaf:before {
+    content: "\f785";
+}
+
 .fa-cc-amazon-pay:before {
     content: "\f42d";
 }
@@ -218,6 +234,10 @@
     content: "\f380";
 }
 
+.fa-centos:before {
+    content: "\f789";
+}
+
 .fa-chrome:before {
     content: "\f268";
 }
@@ -240,6 +260,10 @@
 
 .fa-codiepie:before {
     content: "\f284";
+}
+
+.fa-confluence:before {
+    content: "\f78d";
 }
 
 .fa-connectdevelop:before {
@@ -330,6 +354,10 @@
     content: "\f38d";
 }
 
+.fa-d-and-d-beyond:before {
+    content: "\f6ca";
+}
+
 .fa-dashcube:before {
     content: "\f210";
 }
@@ -352,6 +380,14 @@
 
 .fa-deviantart:before {
     content: "\f1bd";
+}
+
+.fa-dhl:before {
+    content: "\f790";
+}
+
+.fa-diaspora:before {
+    content: "\f791";
 }
 
 .fa-digg:before {
@@ -470,6 +506,18 @@
     content: "\f6dc";
 }
 
+.fa-fedex:before {
+    content: "\f797";
+}
+
+.fa-fedora:before {
+    content: "\f798";
+}
+
+.fa-figma:before {
+    content: "\f799";
+}
+
 .fa-firefox:before {
     content: "\f269";
 }
@@ -508,10 +556,6 @@
 
 .fa-font-awesome-flag:before {
     content: "\f425";
-}
-
-.fa-font-awesome-logo-full:before {
-    content: "\f4e6";
 }
 
 .fa-fonticons:before {
@@ -722,8 +766,16 @@
     content: "\f16d";
 }
 
+.fa-intercom:before {
+    content: "\f7af";
+}
+
 .fa-internet-explorer:before {
     content: "\f26b";
+}
+
+.fa-invision:before {
+    content: "\f7b0";
 }
 
 .fa-ioxhost:before {
@@ -748,6 +800,10 @@
 
 .fa-jenkins:before {
     content: "\f3b6";
+}
+
+.fa-jira:before {
+    content: "\f7b1";
 }
 
 .fa-joget:before {
@@ -884,6 +940,10 @@
 
 .fa-megaport:before {
     content: "\f5a3";
+}
+
+.fa-mendeley:before {
+    content: "\f7b3";
 }
 
 .fa-microsoft:before {
@@ -1082,12 +1142,20 @@
     content: "\f4f7";
 }
 
+.fa-raspberry-pi:before {
+    content: "\f7bb";
+}
+
 .fa-ravelry:before {
     content: "\f2d9";
 }
 
 .fa-react:before {
     content: "\f41b";
+}
+
+.fa-reacteurope:before {
+    content: "\f75d";
 }
 
 .fa-readme:before {
@@ -1114,8 +1182,8 @@
     content: "\f1a2";
 }
 
-.fa-rendact:before {
-    content: "\f3e4";
+.fa-redhat:before {
+    content: "\f7bc";
 }
 
 .fa-renren:before {
@@ -1198,6 +1266,10 @@
     content: "\f512";
 }
 
+.fa-sketch:before {
+    content: "\f7c6";
+}
+
 .fa-skyatlas:before {
     content: "\f216";
 }
@@ -1232,6 +1304,10 @@
 
 .fa-soundcloud:before {
     content: "\f1be";
+}
+
+.fa-sourcetree:before {
+    content: "\f7d3";
 }
 
 .fa-speakap:before {
@@ -1306,6 +1382,10 @@
     content: "\f3f9";
 }
 
+.fa-suse:before {
+    content: "\f7d6";
+}
+
 .fa-teamspeak:before {
     content: "\f4f9";
 }
@@ -1332,6 +1412,10 @@
 
 .fa-themeisle:before {
     content: "\f2b2";
+}
+
+.fa-think-peaks:before {
+    content: "\f731";
 }
 
 .fa-trade-federation:before {
@@ -1374,6 +1458,10 @@
     content: "\f402";
 }
 
+.fa-ubuntu:before {
+    content: "\f7df";
+}
+
 .fa-uikit:before {
     content: "\f403";
 }
@@ -1386,8 +1474,16 @@
     content: "\f405";
 }
 
+.fa-ups:before {
+    content: "\f7e0";
+}
+
 .fa-usb:before {
     content: "\f287";
+}
+
+.fa-usps:before {
+    content: "\f7e1";
 }
 
 .fa-ussunnah:before {
@@ -1506,6 +1602,10 @@
     content: "\f298";
 }
 
+.fa-wpressr:before {
+    content: "\f3e4";
+}
+
 .fa-xbox:before {
     content: "\f412";
 }
@@ -1532,6 +1632,10 @@
 
 .fa-yandex-international:before {
     content: "\f414";
+}
+
+.fa-yarn:before {
+    content: "\f7e3";
 }
 
 .fa-yelp:before {
