@@ -1,5 +1,5 @@
 /*
- * Built from Font Awesome Version 5.6.3 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.7.2 by Christopher Robinson (@edg3)
  */
  
  .fa-ad:before {
@@ -210,6 +210,10 @@
     content: "\f04a";
 }
 
+.fa-bacon:before {
+    content: "\f7e5";
+}
+
 .fa-balance-scale:before {
     content: "\f24e";
 }
@@ -346,6 +350,10 @@
     content: "\f6b7";
 }
 
+.fa-book-medical:before {
+    content: "\f7e6";
+}
+
 .fa-book-open:before {
     content: "\f518";
 }
@@ -380,6 +388,10 @@
 
 .fa-brain:before {
     content: "\f5dc";
+}
+
+.fa-bread-slice:before {
+    content: "\f7ec";
 }
 
 .fa-briefcase:before {
@@ -618,6 +630,10 @@
     content: "\f14a";
 }
 
+.fa-cheese:before {
+    content: "\f7ef";
+}
+
 .fa-chess:before {
     content: "\f439";
 }
@@ -700,6 +716,10 @@
 
 .fa-city:before {
     content: "\f64f";
+}
+
+.fa-clinic-medical:before {
+    content: "\f7f2";
 }
 
 .fa-clipboard:before {
@@ -814,6 +834,10 @@
     content: "\f4ad";
 }
 
+.fa-comment-medical:before {
+    content: "\f7f5";
+}
+
 .fa-comment-slash:before {
     content: "\f4b3";
 }
@@ -892,6 +916,10 @@
 
 .fa-crown:before {
     content: "\f521";
+}
+
+.fa-crutch:before {
+    content: "\f7f7";
 }
 
 .fa-cube:before {
@@ -1068,6 +1096,10 @@
 
 .fa-edit:before {
     content: "\f044";
+}
+
+.fa-egg:before {
+    content: "\f7fb";
 }
 
 .fa-eject:before {
@@ -1562,6 +1594,10 @@
     content: "\f0fd";
 }
 
+.fa-hamburger:before {
+    content: "\f805";
+}
+
 .fa-hammer:before {
     content: "\f6e3";
 }
@@ -1584,6 +1620,10 @@
 
 .fa-hand-lizard:before {
     content: "\f258";
+}
+
+.fa-hand-middle-finger:before {
+    content: "\f806";
 }
 
 .fa-hand-paper:before {
@@ -1640,6 +1680,10 @@
 
 .fa-hanukiah:before {
     content: "\f6e6";
+}
+
+.fa-hard-hat:before {
+    content: "\f807";
 }
 
 .fa-hashtag:before {
@@ -1742,6 +1786,10 @@
     content: "\f593";
 }
 
+.fa-hotdog:before {
+    content: "\f80f";
+}
+
 .fa-hotel:before {
     content: "\f594";
 }
@@ -1772,6 +1820,10 @@
 
 .fa-i-cursor:before {
     content: "\f246";
+}
+
+.fa-ice-cream:before {
+    content: "\f810";
 }
 
 .fa-icicles:before {
@@ -1888,6 +1940,10 @@
 
 .fa-laptop-code:before {
     content: "\f5fc";
+}
+
+.fa-laptop-medical:before {
+    content: "\f812";
 }
 
 .fa-laugh:before {
@@ -2262,6 +2318,10 @@
     content: "\f03b";
 }
 
+.fa-pager:before {
+    content: "\f815";
+}
+
 .fa-paint-brush:before {
     content: "\f1fc";
 }
@@ -2358,6 +2418,10 @@
     content: "\f4ce";
 }
 
+.fa-pepper-hot:before {
+    content: "\f816";
+}
+
 .fa-percent:before {
     content: "\f295";
 }
@@ -2392,6 +2456,10 @@
 
 .fa-pills:before {
     content: "\f484";
+}
+
+.fa-pizza-slice:before {
+    content: "\f818";
 }
 
 .fa-place-of-worship:before {
@@ -3322,6 +3390,14 @@
     content: "\f2ed";
 }
 
+.fa-trash-restore:before {
+    content: "\f829";
+}
+
+.fa-trash-restore-alt:before {
+    content: "\f82a";
+}
+
 .fa-tree:before {
     content: "\f1bb";
 }
@@ -3468,6 +3544,10 @@
 
 .fa-user-ninja:before {
     content: "\f504";
+}
+
+.fa-user-nurse:before {
+    content: "\f82f";
 }
 
 .fa-user-plus:before {

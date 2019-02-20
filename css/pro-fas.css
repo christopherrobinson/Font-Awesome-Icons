@@ -1,5 +1,5 @@
 /*
- * Built from Font Awesome Version 5.6.3 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.7.2 by Christopher Robinson (@edg3)
  */
  
  .fa-abacus:before {
@@ -378,6 +378,10 @@
     content: "\f04a";
 }
 
+.fa-bacon:before {
+    content: "\f7e5";
+}
+
 .fa-badge:before {
     content: "\f335";
 }
@@ -614,6 +618,10 @@
     content: "\f499";
 }
 
+.fa-book-medical:before {
+    content: "\f7e6";
+}
+
 .fa-book-open:before {
     content: "\f518";
 }
@@ -626,12 +634,20 @@
     content: "\f6b8";
 }
 
+.fa-book-user:before {
+    content: "\f7e7";
+}
+
 .fa-bookmark:before {
     content: "\f02e";
 }
 
 .fa-books:before {
     content: "\f5db";
+}
+
+.fa-books-medical:before {
+    content: "\f7e8";
 }
 
 .fa-boot:before {
@@ -706,12 +722,28 @@
     content: "\f438";
 }
 
+.fa-brackets:before {
+    content: "\f7e9";
+}
+
+.fa-brackets-curly:before {
+    content: "\f7ea";
+}
+
 .fa-braille:before {
     content: "\f2a1";
 }
 
 .fa-brain:before {
     content: "\f5dc";
+}
+
+.fa-bread-loaf:before {
+    content: "\f7eb";
+}
+
+.fa-bread-slice:before {
+    content: "\f7ec";
 }
 
 .fa-briefcase:before {
@@ -764,6 +796,10 @@
 
 .fa-burn:before {
     content: "\f46a";
+}
+
+.fa-burrito:before {
+    content: "\f7ed";
 }
 
 .fa-bus:before {
@@ -1042,6 +1078,10 @@
     content: "\f64e";
 }
 
+.fa-chart-scatter:before {
+    content: "\f7ee";
+}
+
 .fa-check:before {
     content: "\f00c";
 }
@@ -1056,6 +1096,18 @@
 
 .fa-check-square:before {
     content: "\f14a";
+}
+
+.fa-cheese:before {
+    content: "\f7ef";
+}
+
+.fa-cheese-swiss:before {
+    content: "\f7f0";
+}
+
+.fa-cheeseburger:before {
+    content: "\f7f1";
 }
 
 .fa-chess:before {
@@ -1214,6 +1266,10 @@
     content: "\f6c2";
 }
 
+.fa-clinic-medical:before {
+    content: "\f7f2";
+}
+
 .fa-clipboard:before {
     content: "\f328";
 }
@@ -1232,6 +1288,10 @@
 
 .fa-clipboard-prescription:before {
     content: "\f5e8";
+}
+
+.fa-clipboard-user:before {
+    content: "\f7f3";
 }
 
 .fa-clock:before {
@@ -1418,6 +1478,10 @@
     content: "\f4a6";
 }
 
+.fa-comment-alt-medical:before {
+    content: "\f7f4";
+}
+
 .fa-comment-alt-minus:before {
     content: "\f4a7";
 }
@@ -1460,6 +1524,10 @@
 
 .fa-comment-lines:before {
     content: "\f4b0";
+}
+
+.fa-comment-medical:before {
+    content: "\f7f5";
 }
 
 .fa-comment-minus:before {
@@ -1586,6 +1654,10 @@
     content: "\f449";
 }
 
+.fa-croissant:before {
+    content: "\f7f6";
+}
+
 .fa-crop:before {
     content: "\f125";
 }
@@ -1608,6 +1680,14 @@
 
 .fa-crown:before {
     content: "\f521";
+}
+
+.fa-crutch:before {
+    content: "\f7f7";
+}
+
+.fa-crutches:before {
+    content: "\f7f8";
 }
 
 .fa-cube:before {
@@ -1636,6 +1716,10 @@
 
 .fa-deaf:before {
     content: "\f2a4";
+}
+
+.fa-debug:before {
+    content: "\f7f9";
 }
 
 .fa-deer:before {
@@ -1736,6 +1820,10 @@
 
 .fa-directions:before {
     content: "\f5eb";
+}
+
+.fa-disease:before {
+    content: "\f7fa";
 }
 
 .fa-divide:before {
@@ -1888,6 +1976,14 @@
 
 .fa-edit:before {
     content: "\f044";
+}
+
+.fa-egg:before {
+    content: "\f7fb";
+}
+
+.fa-egg-fried:before {
+    content: "\f7fc";
 }
 
 .fa-eject:before {
@@ -2202,6 +2298,10 @@
     content: "\f1c2";
 }
 
+.fa-files-medical:before {
+    content: "\f7fd";
+}
+
 .fa-fill:before {
     content: "\f575";
 }
@@ -2254,6 +2354,10 @@
     content: "\f578";
 }
 
+.fa-fish-cooked:before {
+    content: "\f7fe";
+}
+
 .fa-fist-raised:before {
     content: "\f6de";
 }
@@ -2290,6 +2394,18 @@
     content: "\f6e1";
 }
 
+.fa-flower:before {
+    content: "\f7ff";
+}
+
+.fa-flower-daffodil:before {
+    content: "\f800";
+}
+
+.fa-flower-tulip:before {
+    content: "\f801";
+}
+
 .fa-flushed:before {
     content: "\f579";
 }
@@ -2318,6 +2434,10 @@
     content: "\f65f";
 }
 
+.fa-folder-tree:before {
+    content: "\f802";
+}
+
 .fa-folders:before {
     content: "\f660";
 }
@@ -2344,6 +2464,10 @@
 
 .fa-fragile:before {
     content: "\f4bb";
+}
+
+.fa-french-fries:before {
+    content: "\f803";
 }
 
 .fa-frog:before {
@@ -2416,6 +2540,10 @@
 
 .fa-gingerbread-man:before {
     content: "\f79d";
+}
+
+.fa-glass:before {
+    content: "\f804";
 }
 
 .fa-glass-champagne:before {
@@ -2594,6 +2722,10 @@
     content: "\f315";
 }
 
+.fa-hamburger:before {
+    content: "\f805";
+}
+
 .fa-hammer:before {
     content: "\f6e3";
 }
@@ -2640,6 +2772,10 @@
 
 .fa-hand-lizard:before {
     content: "\f258";
+}
+
+.fa-hand-middle-finger:before {
+    content: "\f806";
 }
 
 .fa-hand-paper:before {
@@ -2714,6 +2850,10 @@
     content: "\f6e6";
 }
 
+.fa-hard-hat:before {
+    content: "\f807";
+}
+
 .fa-hashtag:before {
     content: "\f292";
 }
@@ -2744,6 +2884,14 @@
 
 .fa-head-side:before {
     content: "\f6e9";
+}
+
+.fa-head-side-brain:before {
+    content: "\f808";
+}
+
+.fa-head-side-medical:before {
+    content: "\f809";
 }
 
 .fa-head-vr:before {
@@ -2838,8 +2986,20 @@
     content: "\f015";
 }
 
+.fa-home-alt:before {
+    content: "\f80a";
+}
+
 .fa-home-heart:before {
     content: "\f4c9";
+}
+
+.fa-home-lg:before {
+    content: "\f80b";
+}
+
+.fa-home-lg-alt:before {
+    content: "\f80c";
 }
 
 .fa-hood-cloak:before {
@@ -2866,8 +3026,20 @@
     content: "\f47e";
 }
 
+.fa-hospital-user:before {
+    content: "\f80d";
+}
+
+.fa-hospitals:before {
+    content: "\f80e";
+}
+
 .fa-hot-tub:before {
     content: "\f593";
+}
+
+.fa-hotdog:before {
+    content: "\f80f";
 }
 
 .fa-hotel:before {
@@ -2912,6 +3084,10 @@
 
 .fa-i-cursor:before {
     content: "\f246";
+}
+
+.fa-ice-cream:before {
+    content: "\f810";
 }
 
 .fa-ice-skate:before {
@@ -3000,6 +3176,10 @@
 
 .fa-inventory:before {
     content: "\f480";
+}
+
+.fa-island-tropical:before {
+    content: "\f811";
 }
 
 .fa-italic:before {
@@ -3100,6 +3280,10 @@
 
 .fa-laptop-code:before {
     content: "\f5fc";
+}
+
+.fa-laptop-medical:before {
+    content: "\f812";
 }
 
 .fa-laugh:before {
@@ -3330,6 +3514,10 @@
     content: "\f674";
 }
 
+.fa-mailbox:before {
+    content: "\f813";
+}
+
 .fa-male:before {
     content: "\f183";
 }
@@ -3432,6 +3620,10 @@
 
 .fa-mask:before {
     content: "\f6fa";
+}
+
+.fa-meat:before {
+    content: "\f814";
 }
 
 .fa-medal:before {
@@ -3694,6 +3886,10 @@
     content: "\f03b";
 }
 
+.fa-pager:before {
+    content: "\f815";
+}
+
 .fa-paint-brush:before {
     content: "\f1fc";
 }
@@ -3834,6 +4030,10 @@
     content: "\f4ce";
 }
 
+.fa-pepper-hot:before {
+    content: "\f816";
+}
+
 .fa-percent:before {
     content: "\f295";
 }
@@ -3904,6 +4104,14 @@
 
 .fa-pills:before {
     content: "\f484";
+}
+
+.fa-pizza:before {
+    content: "\f817";
+}
+
+.fa-pizza-slice:before {
+    content: "\f818";
 }
 
 .fa-place-of-worship:before {
@@ -3994,6 +4202,10 @@
     content: "\f619";
 }
 
+.fa-popcorn:before {
+    content: "\f819";
+}
+
 .fa-portrait:before {
     content: "\f3e0";
 }
@@ -4032,6 +4244,10 @@
 
 .fa-print:before {
     content: "\f02f";
+}
+
+.fa-print-search:before {
+    content: "\f81a";
 }
 
 .fa-print-slash:before {
@@ -4206,6 +4422,10 @@
     content: "\f70b";
 }
 
+.fa-rings-wedding:before {
+    content: "\f81b";
+}
+
 .fa-road:before {
     content: "\f018";
 }
@@ -4274,6 +4494,14 @@
     content: "\f7be";
 }
 
+.fa-sack:before {
+    content: "\f81c";
+}
+
+.fa-sack-dollar:before {
+    content: "\f81d";
+}
+
 .fa-sad-cry:before {
     content: "\f5b3";
 }
@@ -4282,12 +4510,24 @@
     content: "\f5b4";
 }
 
+.fa-salad:before {
+    content: "\f81e";
+}
+
+.fa-sandwich:before {
+    content: "\f81f";
+}
+
 .fa-satellite:before {
     content: "\f7bf";
 }
 
 .fa-satellite-dish:before {
     content: "\f7c0";
+}
+
+.fa-sausage:before {
+    content: "\f820";
 }
 
 .fa-save:before {
@@ -4438,6 +4678,10 @@
     content: "\f48c";
 }
 
+.fa-shish-kebab:before {
+    content: "\f821";
+}
+
 .fa-shoe-prints:before {
     content: "\f54b";
 }
@@ -4476,6 +4720,10 @@
 
 .fa-shuttlecock:before {
     content: "\f45b";
+}
+
+.fa-sickle:before {
+    content: "\f822";
 }
 
 .fa-sigma:before {
@@ -4734,6 +4982,10 @@
     content: "\f0de";
 }
 
+.fa-soup:before {
+    content: "\f823";
+}
+
 .fa-spa:before {
     content: "\f5bb";
 }
@@ -4838,6 +5090,10 @@
     content: "\f762";
 }
 
+.fa-steak:before {
+    content: "\f824";
+}
+
 .fa-steering-wheel:before {
     content: "\f622";
 }
@@ -4892,6 +5148,10 @@
 
 .fa-street-view:before {
     content: "\f21d";
+}
+
+.fa-stretcher:before {
+    content: "\f825";
 }
 
 .fa-strikethrough:before {
@@ -5066,6 +5326,10 @@
     content: "\f62d";
 }
 
+.fa-taco:before {
+    content: "\f826";
+}
+
 .fa-tag:before {
     content: "\f02b";
 }
@@ -5078,12 +5342,20 @@
     content: "\f69c";
 }
 
+.fa-tanakh:before {
+    content: "\f827";
+}
+
 .fa-tape:before {
     content: "\f4db";
 }
 
 .fa-tasks:before {
     content: "\f0ae";
+}
+
+.fa-tasks-alt:before {
+    content: "\f828";
 }
 
 .fa-taxi:before {
@@ -5370,6 +5642,14 @@
     content: "\f2ed";
 }
 
+.fa-trash-restore:before {
+    content: "\f829";
+}
+
+.fa-trash-restore-alt:before {
+    content: "\f82a";
+}
+
 .fa-treasure-chest:before {
     content: "\f723";
 }
@@ -5392,6 +5672,10 @@
 
 .fa-tree-large:before {
     content: "\f7dd";
+}
+
+.fa-tree-palm:before {
+    content: "\f82b";
 }
 
 .fa-trees:before {
@@ -5582,6 +5866,14 @@
     content: "\f501";
 }
 
+.fa-user-hard-hat:before {
+    content: "\f82c";
+}
+
+.fa-user-headset:before {
+    content: "\f82d";
+}
+
 .fa-user-injured:before {
     content: "\f728";
 }
@@ -5594,12 +5886,20 @@
     content: "\f0f0";
 }
 
+.fa-user-md-chat:before {
+    content: "\f82e";
+}
+
 .fa-user-minus:before {
     content: "\f503";
 }
 
 .fa-user-ninja:before {
     content: "\f504";
+}
+
+.fa-user-nurse:before {
+    content: "\f82f";
 }
 
 .fa-user-plus:before {
@@ -5644,6 +5944,10 @@
 
 .fa-users-crown:before {
     content: "\f6a5";
+}
+
+.fa-users-medical:before {
+    content: "\f830";
 }
 
 .fa-utensil-fork:before {
@@ -5754,6 +6058,10 @@
     content: "\f729";
 }
 
+.fa-walker:before {
+    content: "\f831";
+}
+
 .fa-walking:before {
     content: "\f554";
 }
@@ -5796,6 +6104,14 @@
 
 .fa-water-rise:before {
     content: "\f775";
+}
+
+.fa-webcam:before {
+    content: "\f832";
+}
+
+.fa-webcam-slash:before {
+    content: "\f833";
 }
 
 .fa-weight:before {
