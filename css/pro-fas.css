@@ -1,5 +1,5 @@
 /*
- * Built from Font Awesome Version 5.7.2 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.8.1 by Christopher Robinson (@edg3)
  */
  
  .fa-abacus:before {
@@ -6104,6 +6104,10 @@
 
 .fa-water-rise:before {
     content: "\f775";
+}
+
+.fa-wave-square:before {
+    content: "\f83e";
 }
 
 .fa-webcam:before {

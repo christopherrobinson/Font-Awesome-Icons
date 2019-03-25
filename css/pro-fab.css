@@ -1,5 +1,5 @@
 /*
- * Built from Font Awesome Version 5.7.2 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.8.1 by Christopher Robinson (@edg3)
  */
  
  .fa-500px:before {
@@ -32,6 +32,10 @@
 
 .fa-affiliatetheme:before {
     content: "\f36b";
+}
+
+.fa-airbnb:before {
+    content: "\f834";
 }
 
 .fa-algolia:before {
@@ -126,6 +130,10 @@
     content: "\f2d5";
 }
 
+.fa-battle-net:before {
+    content: "\f835";
+}
+
 .fa-behance:before {
     content: "\f1b4";
 }
@@ -174,8 +182,16 @@
     content: "\f294";
 }
 
+.fa-bootstrap:before {
+    content: "\f836";
+}
+
 .fa-btc:before {
     content: "\f15a";
+}
+
+.fa-buffer:before {
+    content: "\f837";
 }
 
 .fa-buromobelexperte:before {
@@ -240,6 +256,10 @@
 
 .fa-chrome:before {
     content: "\f268";
+}
+
+.fa-chromecast:before {
+    content: "\f838";
 }
 
 .fa-cloudscale:before {
@@ -480,6 +500,10 @@
 
 .fa-etsy:before {
     content: "\f2d7";
+}
+
+.fa-evernote:before {
+    content: "\f839";
 }
 
 .fa-expeditedssl:before {
@@ -780,6 +804,10 @@
 
 .fa-ioxhost:before {
     content: "\f208";
+}
+
+.fa-itch-io:before {
+    content: "\f83a";
 }
 
 .fa-itunes:before {
@@ -1218,6 +1246,10 @@
     content: "\f267";
 }
 
+.fa-salesforce:before {
+    content: "\f83b";
+}
+
 .fa-sass:before {
     content: "\f41e";
 }
@@ -1314,6 +1346,10 @@
     content: "\f3f3";
 }
 
+.fa-speaker-deck:before {
+    content: "\f83c";
+}
+
 .fa-spotify:before {
     content: "\f1bc";
 }
@@ -1384,6 +1420,10 @@
 
 .fa-suse:before {
     content: "\f7d6";
+}
+
+.fa-symfony:before {
+    content: "\f83d";
 }
 
 .fa-teamspeak:before {
@@ -1538,6 +1578,10 @@
     content: "\f41f";
 }
 
+.fa-waze:before {
+    content: "\f83f";
+}
+
 .fa-weebly:before {
     content: "\f5cc";
 }
@@ -1624,6 +1668,10 @@
 
 .fa-yahoo:before {
     content: "\f19e";
+}
+
+.fa-yammer:before {
+    content: "\f840";
 }
 
 .fa-yandex:before {

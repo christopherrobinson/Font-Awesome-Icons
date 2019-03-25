@@ -1,5 +1,5 @@
 /*
- * Built from Font Awesome Version 5.7.2 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.8.1 by Christopher Robinson (@edg3)
  */
  
  .fa-ad:before {
@@ -3672,6 +3672,10 @@
 
 .fa-water:before {
     content: "\f773";
+}
+
+.fa-wave-square:before {
+    content: "\f83e";
 }
 
 .fa-weight:before {
