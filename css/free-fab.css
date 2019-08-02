@@ -294,6 +294,10 @@
     content: "\f26d";
 }
 
+.fa-cotton-bureau:before {
+    content: "\f89e";
+}
+
 .fa-cpanel:before {
     content: "\f388";
 }
@@ -640,6 +644,10 @@
 
 .fa-git:before {
     content: "\f1d3";
+}
+
+.fa-git-alt:before {
+    content: "\f841";
 }
 
 .fa-git-square:before {
@@ -1010,10 +1018,6 @@
     content: "\f5a8";
 }
 
-.fa-nintendo-switch:before {
-    content: "\f418";
-}
-
 .fa-node:before {
     content: "\f419";
 }
@@ -1364,6 +1368,10 @@
 
 .fa-stack-overflow:before {
     content: "\f16c";
+}
+
+.fa-stackpath:before {
+    content: "\f842";
 }
 
 .fa-staylinked:before {
