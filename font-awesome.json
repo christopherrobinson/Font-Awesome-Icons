@@ -5995,13 +5995,15 @@
         "styles": [
           "solid",
           "regular",
-          "light"
+          "light",
+          "duotone"
         ],
         "membership": {
           "pro": [
             "solid",
             "regular",
-            "light"
+            "light",
+            "duotone"
           ],
           "free": []
         },
@@ -6020,13 +6022,15 @@
         "styles": [
           "solid",
           "regular",
-          "light"
+          "light",
+          "duotone"
         ],
         "membership": {
           "pro": [
             "solid",
             "regular",
-            "light"
+            "light",
+            "duotone"
           ],
           "free": []
         },
@@ -36678,13 +36682,15 @@
         "styles": [
           "solid",
           "regular",
-          "light"
+          "light",
+          "duotone"
         ],
         "membership": {
           "pro": [
             "solid",
             "regular",
-            "light"
+            "light",
+            "duotone"
           ],
           "free": [
             "solid"
@@ -36844,13 +36850,15 @@
         "styles": [
           "solid",
           "regular",
-          "light"
+          "light",
+          "duotone"
         ],
         "membership": {
           "pro": [
             "solid",
             "regular",
-            "light"
+            "light",
+            "duotone"
           ],
           "free": [
             "solid"

@@ -1,8 +1,8 @@
 /*
- * Built from Font Awesome Version 5.10.0 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.10.1 by Christopher Robinson (@edg3)
  */
- 
- .fa-address-book:before {
+
+.fa-address-book:before {
     content: "\f2b9";
 }
 
@@ -605,3 +605,4 @@
 .fa-window-restore:before {
     content: "\f2d2";
 }
+
