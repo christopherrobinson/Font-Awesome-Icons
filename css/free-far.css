@@ -1,608 +1,612 @@
 /*
- * Built from Font Awesome Version 5.10.1 by Christopher Robinson (@edg3)
- */
+*Built from Font Awesome Version 5.12.1 by Chris Norwood (@ChrisGN) 
+*/
 
 .fa-address-book:before {
-    content: "\f2b9";
+	content: "\f2b9";
 }
 
 .fa-address-card:before {
-    content: "\f2bb";
+	content: "\f2bb";
 }
 
-.fa-angry:before {
-    content: "\f556";
+.fa-angry-face:before {
+	content: "\f556";
 }
 
-.fa-arrow-alt-circle-down:before {
-    content: "\f358";
+.fa-alternate-arrow-circle-down:before {
+	content: "\f358";
 }
 
-.fa-arrow-alt-circle-left:before {
-    content: "\f359";
+.fa-alternate-arrow-circle-left:before {
+	content: "\f359";
 }
 
-.fa-arrow-alt-circle-right:before {
-    content: "\f35a";
+.fa-alternate-arrow-circle-right:before {
+	content: "\f35a";
 }
 
-.fa-arrow-alt-circle-up:before {
-    content: "\f35b";
+.fa-alternate-arrow-circle-up:before {
+	content: "\f35b";
 }
 
 .fa-bell:before {
-    content: "\f0f3";
+	content: "\f0f3";
 }
 
 .fa-bell-slash:before {
-    content: "\f1f6";
+	content: "\f1f6";
 }
 
 .fa-bookmark:before {
-    content: "\f02e";
+	content: "\f02e";
 }
 
 .fa-building:before {
-    content: "\f1ad";
+	content: "\f1ad";
 }
 
 .fa-calendar:before {
-    content: "\f133";
+	content: "\f133";
 }
 
-.fa-calendar-alt:before {
-    content: "\f073";
+.fa-alternate-calendar:before {
+	content: "\f073";
 }
 
 .fa-calendar-check:before {
-    content: "\f274";
+	content: "\f274";
 }
 
 .fa-calendar-minus:before {
-    content: "\f272";
+	content: "\f272";
 }
 
 .fa-calendar-plus:before {
-    content: "\f271";
+	content: "\f271";
 }
 
 .fa-calendar-times:before {
-    content: "\f273";
+	content: "\f273";
 }
 
 .fa-caret-square-down:before {
-    content: "\f150";
+	content: "\f150";
 }
 
 .fa-caret-square-left:before {
-    content: "\f191";
+	content: "\f191";
 }
 
 .fa-caret-square-right:before {
-    content: "\f152";
+	content: "\f152";
 }
 
 .fa-caret-square-up:before {
-    content: "\f151";
+	content: "\f151";
 }
 
-.fa-chart-bar:before {
-    content: "\f080";
+.fa-bar-chart:before {
+	content: "\f080";
 }
 
 .fa-check-circle:before {
-    content: "\f058";
+	content: "\f058";
 }
 
 .fa-check-square:before {
-    content: "\f14a";
+	content: "\f14a";
 }
 
 .fa-circle:before {
-    content: "\f111";
+	content: "\f111";
 }
 
 .fa-clipboard:before {
-    content: "\f328";
+	content: "\f328";
 }
 
 .fa-clock:before {
-    content: "\f017";
+	content: "\f017";
 }
 
 .fa-clone:before {
-    content: "\f24d";
+	content: "\f24d";
 }
 
 .fa-closed-captioning:before {
-    content: "\f20a";
+	content: "\f20a";
 }
 
 .fa-comment:before {
-    content: "\f075";
+	content: "\f075";
 }
 
-.fa-comment-alt:before {
-    content: "\f27a";
+.fa-alternate-comment:before {
+	content: "\f27a";
 }
 
 .fa-comment-dots:before {
-    content: "\f4ad";
+	content: "\f4ad";
 }
 
 .fa-comments:before {
-    content: "\f086";
+	content: "\f086";
 }
 
 .fa-compass:before {
-    content: "\f14e";
+	content: "\f14e";
 }
 
 .fa-copy:before {
-    content: "\f0c5";
+	content: "\f0c5";
 }
 
 .fa-copyright:before {
-    content: "\f1f9";
+	content: "\f1f9";
 }
 
 .fa-credit-card:before {
-    content: "\f09d";
+	content: "\f09d";
 }
 
-.fa-dizzy:before {
-    content: "\f567";
+.fa-dizzy-face:before {
+	content: "\f567";
 }
 
 .fa-dot-circle:before {
-    content: "\f192";
+	content: "\f192";
 }
 
 .fa-edit:before {
-    content: "\f044";
+	content: "\f044";
 }
 
 .fa-envelope:before {
-    content: "\f0e0";
+	content: "\f0e0";
 }
 
 .fa-envelope-open:before {
-    content: "\f2b6";
+	content: "\f2b6";
 }
 
 .fa-eye:before {
-    content: "\f06e";
+	content: "\f06e";
 }
 
 .fa-eye-slash:before {
-    content: "\f070";
+	content: "\f070";
 }
 
 .fa-file:before {
-    content: "\f15b";
+	content: "\f15b";
 }
 
-.fa-file-alt:before {
-    content: "\f15c";
+.fa-alternate-file:before {
+	content: "\f15c";
 }
 
-.fa-file-archive:before {
-    content: "\f1c6";
+.fa-archive-file:before {
+	content: "\f1c6";
 }
 
-.fa-file-audio:before {
-    content: "\f1c7";
+.fa-audio-file:before {
+	content: "\f1c7";
 }
 
-.fa-file-code:before {
-    content: "\f1c9";
+.fa-code-file:before {
+	content: "\f1c9";
 }
 
-.fa-file-excel:before {
-    content: "\f1c3";
+.fa-excel-file:before {
+	content: "\f1c3";
 }
 
-.fa-file-image:before {
-    content: "\f1c5";
+.fa-image-file:before {
+	content: "\f1c5";
 }
 
-.fa-file-pdf:before {
-    content: "\f1c1";
+.fa-pdf-file:before {
+	content: "\f1c1";
 }
 
-.fa-file-powerpoint:before {
-    content: "\f1c4";
+.fa-powerpoint-file:before {
+	content: "\f1c4";
 }
 
-.fa-file-video:before {
-    content: "\f1c8";
+.fa-video-file:before {
+	content: "\f1c8";
 }
 
-.fa-file-word:before {
-    content: "\f1c2";
+.fa-word-file:before {
+	content: "\f1c2";
 }
 
 .fa-flag:before {
-    content: "\f024";
+	content: "\f024";
 }
 
-.fa-flushed:before {
-    content: "\f579";
+.fa-flushed-face:before {
+	content: "\f579";
 }
 
 .fa-folder:before {
-    content: "\f07b";
+	content: "\f07b";
 }
 
 .fa-folder-open:before {
-    content: "\f07c";
+	content: "\f07c";
 }
 
-.fa-frown:before {
-    content: "\f119";
+.fa-font-awesome-full-logo:before {
+	content: "\f4e6";
 }
 
-.fa-frown-open:before {
-    content: "\f57a";
+.fa-frowning-face:before {
+	content: "\f119";
+}
+
+.fa-frowning-face-with-open-mouth:before {
+	content: "\f57a";
 }
 
 .fa-futbol:before {
-    content: "\f1e3";
+	content: "\f1e3";
 }
 
 .fa-gem:before {
-    content: "\f3a5";
+	content: "\f3a5";
 }
 
-.fa-grimace:before {
-    content: "\f57f";
+.fa-grimacing-face:before {
+	content: "\f57f";
 }
 
-.fa-grin:before {
-    content: "\f580";
+.fa-grinning-face:before {
+	content: "\f580";
 }
 
-.fa-grin-alt:before {
-    content: "\f581";
+.fa-alternate-grinning-face:before {
+	content: "\f581";
 }
 
-.fa-grin-beam:before {
-    content: "\f582";
+.fa-grinning-face-with-smiling-eyes:before {
+	content: "\f582";
 }
 
-.fa-grin-beam-sweat:before {
-    content: "\f583";
+.fa-grinning-face-with-sweat:before {
+	content: "\f583";
 }
 
-.fa-grin-hearts:before {
-    content: "\f584";
+.fa-smiling-face-with-heart-eyes:before {
+	content: "\f584";
 }
 
-.fa-grin-squint:before {
-    content: "\f585";
+.fa-grinning-squinting-face:before {
+	content: "\f585";
 }
 
-.fa-grin-squint-tears:before {
-    content: "\f586";
+.fa-rolling-on-the-floor-laughing:before {
+	content: "\f586";
 }
 
-.fa-grin-stars:before {
-    content: "\f587";
+.fa-star-struck:before {
+	content: "\f587";
 }
 
-.fa-grin-tears:before {
-    content: "\f588";
+.fa-face-with-tears-of-joy:before {
+	content: "\f588";
 }
 
-.fa-grin-tongue:before {
-    content: "\f589";
+.fa-face-with-tongue:before {
+	content: "\f589";
 }
 
-.fa-grin-tongue-squint:before {
-    content: "\f58a";
+.fa-squinting-face-with-tongue:before {
+	content: "\f58a";
 }
 
-.fa-grin-tongue-wink:before {
-    content: "\f58b";
+.fa-winking-face-with-tongue:before {
+	content: "\f58b";
 }
 
-.fa-grin-wink:before {
-    content: "\f58c";
+.fa-grinning-winking-face:before {
+	content: "\f58c";
 }
 
-.fa-hand-lizard:before {
-    content: "\f258";
+.fa-lizard-(hand):before {
+	content: "\f258";
 }
 
-.fa-hand-paper:before {
-    content: "\f256";
+.fa-paper-(hand):before {
+	content: "\f256";
 }
 
-.fa-hand-peace:before {
-    content: "\f25b";
+.fa-peace-(hand):before {
+	content: "\f25b";
 }
 
-.fa-hand-point-down:before {
-    content: "\f0a7";
+.fa-hand-pointing-down:before {
+	content: "\f0a7";
 }
 
-.fa-hand-point-left:before {
-    content: "\f0a5";
+.fa-hand-pointing-left:before {
+	content: "\f0a5";
 }
 
-.fa-hand-point-right:before {
-    content: "\f0a4";
+.fa-hand-pointing-right:before {
+	content: "\f0a4";
 }
 
-.fa-hand-point-up:before {
-    content: "\f0a6";
+.fa-hand-pointing-up:before {
+	content: "\f0a6";
 }
 
-.fa-hand-pointer:before {
-    content: "\f25a";
+.fa-pointer-(hand):before {
+	content: "\f25a";
 }
 
-.fa-hand-rock:before {
-    content: "\f255";
+.fa-rock-(hand):before {
+	content: "\f255";
 }
 
-.fa-hand-scissors:before {
-    content: "\f257";
+.fa-scissors-(hand):before {
+	content: "\f257";
 }
 
-.fa-hand-spock:before {
-    content: "\f259";
+.fa-spock-(hand):before {
+	content: "\f259";
 }
 
 .fa-handshake:before {
-    content: "\f2b5";
+	content: "\f2b5";
 }
 
 .fa-hdd:before {
-    content: "\f0a0";
+	content: "\f0a0";
 }
 
 .fa-heart:before {
-    content: "\f004";
+	content: "\f004";
 }
 
 .fa-hospital:before {
-    content: "\f0f8";
+	content: "\f0f8";
 }
 
 .fa-hourglass:before {
-    content: "\f254";
+	content: "\f254";
 }
 
-.fa-id-badge:before {
-    content: "\f2c1";
+.fa-identification-badge:before {
+	content: "\f2c1";
 }
 
-.fa-id-card:before {
-    content: "\f2c2";
+.fa-identification-card:before {
+	content: "\f2c2";
 }
 
 .fa-image:before {
-    content: "\f03e";
+	content: "\f03e";
 }
 
 .fa-images:before {
-    content: "\f302";
+	content: "\f302";
 }
 
 .fa-keyboard:before {
-    content: "\f11c";
+	content: "\f11c";
 }
 
-.fa-kiss:before {
-    content: "\f596";
+.fa-kissing-face:before {
+	content: "\f596";
 }
 
-.fa-kiss-beam:before {
-    content: "\f597";
+.fa-kissing-face-with-smiling-eyes:before {
+	content: "\f597";
 }
 
-.fa-kiss-wink-heart:before {
-    content: "\f598";
+.fa-face-blowing-a-kiss:before {
+	content: "\f598";
 }
 
-.fa-laugh:before {
-    content: "\f599";
+.fa-grinning-face-with-big-eyes:before {
+	content: "\f599";
 }
 
-.fa-laugh-beam:before {
-    content: "\f59a";
+.fa-laugh-face-with-beaming-eyes:before {
+	content: "\f59a";
 }
 
-.fa-laugh-squint:before {
-    content: "\f59b";
+.fa-laughing-squinting-face:before {
+	content: "\f59b";
 }
 
-.fa-laugh-wink:before {
-    content: "\f59c";
+.fa-laughing-winking-face:before {
+	content: "\f59c";
 }
 
 .fa-lemon:before {
-    content: "\f094";
+	content: "\f094";
 }
 
 .fa-life-ring:before {
-    content: "\f1cd";
+	content: "\f1cd";
 }
 
 .fa-lightbulb:before {
-    content: "\f0eb";
+	content: "\f0eb";
 }
 
-.fa-list-alt:before {
-    content: "\f022";
+.fa-alternate-list:before {
+	content: "\f022";
 }
 
 .fa-map:before {
-    content: "\f279";
+	content: "\f279";
 }
 
-.fa-meh:before {
-    content: "\f11a";
+.fa-neutral-face:before {
+	content: "\f11a";
 }
 
-.fa-meh-blank:before {
-    content: "\f5a4";
+.fa-face-without-mouth:before {
+	content: "\f5a4";
 }
 
-.fa-meh-rolling-eyes:before {
-    content: "\f5a5";
+.fa-face-with-rolling-eyes:before {
+	content: "\f5a5";
 }
 
 .fa-minus-square:before {
-    content: "\f146";
+	content: "\f146";
 }
 
-.fa-money-bill-alt:before {
-    content: "\f3d1";
+.fa-alternate-money-bill:before {
+	content: "\f3d1";
 }
 
 .fa-moon:before {
-    content: "\f186";
+	content: "\f186";
 }
 
 .fa-newspaper:before {
-    content: "\f1ea";
+	content: "\f1ea";
 }
 
 .fa-object-group:before {
-    content: "\f247";
+	content: "\f247";
 }
 
 .fa-object-ungroup:before {
-    content: "\f248";
+	content: "\f248";
 }
 
 .fa-paper-plane:before {
-    content: "\f1d8";
+	content: "\f1d8";
 }
 
 .fa-pause-circle:before {
-    content: "\f28b";
+	content: "\f28b";
 }
 
 .fa-play-circle:before {
-    content: "\f144";
+	content: "\f144";
 }
 
 .fa-plus-square:before {
-    content: "\f0fe";
+	content: "\f0fe";
 }
 
 .fa-question-circle:before {
-    content: "\f059";
+	content: "\f059";
 }
 
-.fa-registered:before {
-    content: "\f25d";
+.fa-registered-trademark:before {
+	content: "\f25d";
 }
 
-.fa-sad-cry:before {
-    content: "\f5b3";
+.fa-crying-face:before {
+	content: "\f5b3";
 }
 
-.fa-sad-tear:before {
-    content: "\f5b4";
+.fa-loudly-crying-face:before {
+	content: "\f5b4";
 }
 
 .fa-save:before {
-    content: "\f0c7";
+	content: "\f0c7";
 }
 
 .fa-share-square:before {
-    content: "\f14d";
+	content: "\f14d";
 }
 
-.fa-smile:before {
-    content: "\f118";
+.fa-smiling-face:before {
+	content: "\f118";
 }
 
-.fa-smile-beam:before {
-    content: "\f5b8";
+.fa-beaming-face-with-smiling-eyes:before {
+	content: "\f5b8";
 }
 
-.fa-smile-wink:before {
-    content: "\f4da";
+.fa-winking-face:before {
+	content: "\f4da";
 }
 
 .fa-snowflake:before {
-    content: "\f2dc";
+	content: "\f2dc";
 }
 
 .fa-square:before {
-    content: "\f0c8";
+	content: "\f0c8";
 }
 
 .fa-star:before {
-    content: "\f005";
+	content: "\f005";
 }
 
 .fa-star-half:before {
-    content: "\f089";
+	content: "\f089";
 }
 
 .fa-sticky-note:before {
-    content: "\f249";
+	content: "\f249";
 }
 
 .fa-stop-circle:before {
-    content: "\f28d";
+	content: "\f28d";
 }
 
 .fa-sun:before {
-    content: "\f185";
+	content: "\f185";
 }
 
-.fa-surprise:before {
-    content: "\f5c2";
+.fa-hushed-face:before {
+	content: "\f5c2";
 }
 
 .fa-thumbs-down:before {
-    content: "\f165";
+	content: "\f165";
 }
 
 .fa-thumbs-up:before {
-    content: "\f164";
+	content: "\f164";
 }
 
 .fa-times-circle:before {
-    content: "\f057";
+	content: "\f057";
 }
 
-.fa-tired:before {
-    content: "\f5c8";
+.fa-tired-face:before {
+	content: "\f5c8";
 }
 
-.fa-trash-alt:before {
-    content: "\f2ed";
+.fa-alternate-trash:before {
+	content: "\f2ed";
 }
 
 .fa-user:before {
-    content: "\f007";
+	content: "\f007";
 }
 
 .fa-user-circle:before {
-    content: "\f2bd";
+	content: "\f2bd";
 }
 
 .fa-window-close:before {
-    content: "\f410";
+	content: "\f410";
 }
 
 .fa-window-maximize:before {
-    content: "\f2d0";
+	content: "\f2d0";
 }
 
 .fa-window-minimize:before {
-    content: "\f2d1";
+	content: "\f2d1";
 }
 
 .fa-window-restore:before {
-    content: "\f2d2";
+	content: "\f2d2";
 }
 
