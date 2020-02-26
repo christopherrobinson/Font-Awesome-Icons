@@ -198,6 +198,10 @@
     content: "\f37f";
 }
 
+.fa-buy-n-large:before {
+    content: "\f8a6";
+}
+
 .fa-buysellads:before {
     content: "\f20d";
 }
@@ -382,6 +386,10 @@
     content: "\f6ca";
 }
 
+.fa-dailymotion:before {
+    content: "\f952";
+}
+
 .fa-dashcube:before {
     content: "\f210";
 }
@@ -548,6 +556,10 @@
 
 .fa-firefox:before {
     content: "\f269";
+}
+
+.fa-firefox-browser:before {
+    content: "\f907";
 }
 
 .fa-first-order:before {
@@ -790,12 +802,20 @@
     content: "\f3b2";
 }
 
+.fa-ideal:before {
+    content: "\f913";
+}
+
 .fa-imdb:before {
     content: "\f2d8";
 }
 
 .fa-instagram:before {
     content: "\f16d";
+}
+
+.fa-instagram-square:before {
+    content: "\f955";
 }
 
 .fa-intercom:before {
@@ -954,6 +974,10 @@
     content: "\f136";
 }
 
+.fa-mdb:before {
+    content: "\f8ca";
+}
+
 .fa-medapps:before {
     content: "\f3c6";
 }
@@ -982,6 +1006,10 @@
     content: "\f7b3";
 }
 
+.fa-microblog:before {
+    content: "\f91a";
+}
+
 .fa-microsoft:before {
     content: "\f3ca";
 }
@@ -992,6 +1020,10 @@
 
 .fa-mixcloud:before {
     content: "\f289";
+}
+
+.fa-mixer:before {
+    content: "\f956";
 }
 
 .fa-mizuni:before {
@@ -1066,6 +1098,10 @@
     content: "\f23c";
 }
 
+.fa-orcid:before {
+    content: "\f8d2";
+}
+
 .fa-osi:before {
     content: "\f41a";
 }
@@ -1128,6 +1164,10 @@
 
 .fa-pied-piper-pp:before {
     content: "\f1a7";
+}
+
+.fa-pied-piper-square:before {
+    content: "\f91e";
 }
 
 .fa-pinterest:before {
@@ -1286,6 +1326,10 @@
     content: "\f214";
 }
 
+.fa-shopify:before {
+    content: "\f957";
+}
+
 .fa-shopware:before {
     content: "\f5b5";
 }
@@ -1430,6 +1474,10 @@
     content: "\f7d6";
 }
 
+.fa-swift:before {
+    content: "\f8e1";
+}
+
 .fa-symfony:before {
     content: "\f83d";
 }
@@ -1514,8 +1562,16 @@
     content: "\f403";
 }
 
+.fa-umbraco:before {
+    content: "\f8e8";
+}
+
 .fa-uniregistry:before {
     content: "\f404";
+}
+
+.fa-unity:before {
+    content: "\f949";
 }
 
 .fa-untappd:before {
