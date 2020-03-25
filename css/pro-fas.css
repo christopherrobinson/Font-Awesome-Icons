@@ -1,5 +1,5 @@
 /*
- * Built from Font Awesome Version 5.12.1 by Christopher Robinson (@edg3)
+ * Built from Font Awesome Version 5.13.0 by Christopher Robinson (@edg3)
  */
 
 .fa-abacus:before {
@@ -420,6 +420,14 @@
 
 .fa-bacon:before {
     content: "\f7e5";
+}
+
+.fa-bacteria:before {
+    content: "\f959";
+}
+
+.fa-bacterium:before {
+    content: "\f95a";
 }
 
 .fa-badge:before {
@@ -856,6 +864,10 @@
 
 .fa-box-open:before {
     content: "\f49e";
+}
+
+.fa-box-tissue:before {
+    content: "\f95b";
 }
 
 .fa-box-up:before {
@@ -3162,6 +3174,10 @@
     content: "\f6e5";
 }
 
+.fa-hand-holding-medical:before {
+    content: "\f95c";
+}
+
 .fa-hand-holding-seedling:before {
     content: "\f4bf";
 }
@@ -3222,6 +3238,10 @@
     content: "\f257";
 }
 
+.fa-hand-sparkles:before {
+    content: "\f95d";
+}
+
 .fa-hand-spock:before {
     content: "\f259";
 }
@@ -3242,12 +3262,24 @@
     content: "\f4c5";
 }
 
+.fa-hands-wash:before {
+    content: "\f95e";
+}
+
 .fa-handshake:before {
     content: "\f2b5";
 }
 
 .fa-handshake-alt:before {
     content: "\f4c6";
+}
+
+.fa-handshake-alt-slash:before {
+    content: "\f95f";
+}
+
+.fa-handshake-slash:before {
+    content: "\f960";
 }
 
 .fa-hanukiah:before {
@@ -3302,12 +3334,28 @@
     content: "\f808";
 }
 
+.fa-head-side-cough:before {
+    content: "\f961";
+}
+
+.fa-head-side-cough-slash:before {
+    content: "\f962";
+}
+
 .fa-head-side-headphones:before {
     content: "\f8c2";
 }
 
+.fa-head-side-mask:before {
+    content: "\f963";
+}
+
 .fa-head-side-medical:before {
     content: "\f809";
+}
+
+.fa-head-side-virus:before {
+    content: "\f964";
 }
 
 .fa-head-vr:before {
@@ -3520,6 +3568,10 @@
 
 .fa-house-signal:before {
     content: "\f912";
+}
+
+.fa-house-user:before {
+    content: "\f965";
 }
 
 .fa-hryvnia:before {
@@ -3770,6 +3822,10 @@
     content: "\f5fc";
 }
 
+.fa-laptop-house:before {
+    content: "\f966";
+}
+
 .fa-laptop-medical:before {
     content: "\f812";
 }
@@ -4016,6 +4072,10 @@
 
 .fa-lungs:before {
     content: "\f604";
+}
+
+.fa-lungs-virus:before {
+    content: "\f967";
 }
 
 .fa-mace:before {
@@ -4614,6 +4674,10 @@
     content: "\f456";
 }
 
+.fa-people-arrows:before {
+    content: "\f968";
+}
+
 .fa-people-carry:before {
     content: "\f4ce";
 }
@@ -4748,6 +4812,10 @@
 
 .fa-plane-departure:before {
     content: "\f5b0";
+}
+
+.fa-plane-slash:before {
+    content: "\f969";
 }
 
 .fa-planet-moon:before {
@@ -4900,6 +4968,14 @@
 
 .fa-projector:before {
     content: "\f8d6";
+}
+
+.fa-pump-medical:before {
+    content: "\f96a";
+}
+
+.fa-pump-soap:before {
+    content: "\f96b";
 }
 
 .fa-pumpkin:before {
@@ -5382,6 +5458,10 @@
     content: "\f712";
 }
 
+.fa-shield-virus:before {
+    content: "\f96c";
+}
+
 .fa-ship:before {
     content: "\f21a";
 }
@@ -5524,6 +5604,10 @@
 
 .fa-sim-card:before {
     content: "\f7c4";
+}
+
+.fa-sink:before {
+    content: "\f96d";
 }
 
 .fa-siren:before {
@@ -5672,6 +5756,10 @@
 
 .fa-snowplow:before {
     content: "\f7d2";
+}
+
+.fa-soap:before {
+    content: "\f96e";
 }
 
 .fa-socks:before {
@@ -5994,12 +6082,24 @@
     content: "\f2f2";
 }
 
+.fa-stopwatch-20:before {
+    content: "\f96f";
+}
+
 .fa-store:before {
     content: "\f54e";
 }
 
 .fa-store-alt:before {
     content: "\f54f";
+}
+
+.fa-store-alt-slash:before {
+    content: "\f970";
+}
+
+.fa-store-slash:before {
+    content: "\f971";
 }
 
 .fa-stream:before {
@@ -6448,6 +6548,10 @@
 
 .fa-toilet-paper-alt:before {
     content: "\f71f";
+}
+
+.fa-toilet-paper-slash:before {
+    content: "\f972";
 }
 
 .fa-tombstone:before {
@@ -6938,6 +7042,10 @@
     content: "\f830";
 }
 
+.fa-users-slash:before {
+    content: "\f973";
+}
+
 .fa-utensil-fork:before {
     content: "\f2e3";
 }
@@ -7016,6 +7124,18 @@
 
 .fa-violin:before {
     content: "\f8ed";
+}
+
+.fa-virus:before {
+    content: "\f974";
+}
+
+.fa-virus-slash:before {
+    content: "\f975";
+}
+
+.fa-viruses:before {
+    content: "\f976";
 }
 
 .fa-voicemail:before {
